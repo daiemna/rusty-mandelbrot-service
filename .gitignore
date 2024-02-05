@@ -1,0 +1,4 @@
+target/
+render/
+.vscode/
+.DS_Store
