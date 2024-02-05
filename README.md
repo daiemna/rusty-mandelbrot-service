@@ -1,7 +1,7 @@
 # Mandelbrot Service
  Service generates images of mandelbrot set at a given location in the complex plane.
 
-![Sample generated image](docs/img/mandalbrot_sample.png)
+![Sample generated image](https://github.com/daiemna/rusty-mandelbrot-service/blob/main/docs/img/mandalbrot_sample.png)
 
 ## Run
 1. `make run` to run the server
